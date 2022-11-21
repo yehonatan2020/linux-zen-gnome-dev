@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/yehonatan2020/linuxarch-gnome-settings
+	fetch = +refs/*:refs/*
+	mirror = true

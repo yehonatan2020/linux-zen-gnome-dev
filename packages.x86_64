@@ -202,7 +202,6 @@ octopi-notifier-frameworks
 
 #Desktop
 archlinux-wallpaper
-alg-gnome-settings
 appstream-glib
 clutter-gst
 clutter-gtk
