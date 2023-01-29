@@ -332,6 +332,7 @@ sdl
 sdl12-compat
 vim-runtime
 vim
+yarn
 zip
 
 #Optionals
@@ -413,6 +414,6 @@ chaotic-keyring
 chaotic-mirrorlist
 
 #NVIDIA Drivers & Tools
-nvidia
+nvidia-dkms
 nvidia-utils
 nvidia-settings

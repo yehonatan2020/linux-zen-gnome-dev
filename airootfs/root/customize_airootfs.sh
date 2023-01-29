@@ -20,6 +20,7 @@ sudo pacman --noconfirm -U root/video-downloader-git/video-downloader-git-0.10.1
 sudo pacman --noconfirm -U root/zramd/zramd-0.9.2-1-any.pkg.tar.lzo && rm -rf root/zramd
 sudo pacman --noconfirm -U root/alg-cala-config-zen/alg-cala-config-zen-22.07-4-any.pkg.tar.lzo && rm -rf root/alg-cala-config-zen
 sudo pacman --noconfirm -U root/linuxarch-gnome-settings/alg-gnome-settings-21.07-1-x86_64.pkg.tar.lzo && rm -rf root/linuxarch-gnome-settings
+sudo pacman --noconfirm -U root/newflasher-git/newflasher-git-194-1-x86_64.pkg.tar.lzo && rm -rf root/newflasher-git
 sudo sed -i -e '$aNoDisplay=true' /usr/share/applications/avahi-discover.desktop
 sudo sed -i -e '$aNotShowIn=Gnome;KDE;' /usr/share/applications/avahi-discover.desktop
 sudo sed -i -e '$aNoDisplay=true' /usr/share/applications/bssh.desktop
